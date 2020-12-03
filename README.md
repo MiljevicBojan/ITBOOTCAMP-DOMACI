@@ -1,2 +1,2 @@
-# ITBootcamp-IX
-Domaci zadatak - Nedelja1
+ITBOOTCAMP-DOMACI
+Nedelja1
